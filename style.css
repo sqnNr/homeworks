@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+body {
+    background-color: #F5F5DC;
+    flex-wrap: wrap;
+    justify-content: center; /* Центрирование по горизонтали */
+    align-items: center; /* Центрирование по вертикали */
+    height: 100vh; /* Высота на всю страницу */
+    margin: 0;
+    padding: 0 25px; /* Добавляем отступы по бокам экрана (20px) */
+}
+
+.glava {
+    display: flex;
+    justify-content: center;
+    color: rgb(199, 31, 31);
+    font-size: 19px;
+}
+
+.hh {
+    display: flex;
+    justify-content: start;
+    font-size: 10px;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.p1{
+    display: flex;
+    font-size: 13px;
+}
+
+.p2{
+    display: flex;
+    font-size: 13px;
+}
+
+.I{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(199, 31, 31);
+}
+
+.II{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(199, 31, 31);
+}
+
+.hhh{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(199, 31, 31);
+}
+
+.hhhh{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(199, 31, 31);
+}
+
+.v{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(199, 31, 31);
+}
+
+.VI{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: rgb(199, 31, 31);
+}
